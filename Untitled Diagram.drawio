@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T05:01:32.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="PJLFLf7l0jz4nB3rJodE" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-18T05:08:51.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="bkX-75xzuFXrZ9XaLKkE" version="14.6.9" type="github">
   <diagram id="BHE2GCNE7rLQnLxoAsBc" name="Page-1">
     <mxGraphModel dx="1483" dy="829" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,8 +89,8 @@
         <mxCell id="osYjdf-58s_nctMU4wrf-24" value="CNT ++" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360.5" y="650" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="osYjdf-58s_nctMU4wrf-26" value="첫 번째 노드 생성" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="495.5" y="340" width="114.5" height="30" as="geometry" />
+        <mxCell id="osYjdf-58s_nctMU4wrf-26" value="첫 번째 노드 생성 후 pre는 첫 번째 노드 가리키기" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="505.5" y="350" width="114.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="osYjdf-58s_nctMU4wrf-27" value="새로운 노드를 pre가 가리키는 노드 뒤로 생성 후 pre는 새로운 노드를 가리키기&lt;br&gt;30회 반복" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="495.5" y="520" width="166.59" height="70" as="geometry" />
